@@ -11,4 +11,4 @@ def fib(n):
     return x
             
 
-print(fib(2018)) 
+print(fib(10)) 
